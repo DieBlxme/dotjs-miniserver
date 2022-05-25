@@ -1,1 +1,1 @@
-basic.showNumber(1)
+let testVar = 1
