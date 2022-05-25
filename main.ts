@@ -1,1 +1,7 @@
-let testVar = 2
+basic.showAnimation(`
+. . . . .
+. . . . .
+. . # . #
+. . . . .
+. . . . .
+`)
