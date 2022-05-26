@@ -8,7 +8,8 @@
     "files": [
         "main.ts",
         "README.md",
-        "timer.ts"
+        "timer.ts",
+        "game.ts"
     ],
     "testFiles": [],
     "supportedTargets": [

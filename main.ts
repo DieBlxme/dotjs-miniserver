@@ -1,3 +1,3 @@
-//idk if something is going to be here
-//feel free to check other files 
-//Have fun!
+//Project registry
+//timer.ts => Timer
+//game.ts => Small game (Not finished yet!)
