@@ -10,9 +10,7 @@
         "README.md",
         "timer.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "supportedTargets": [
         "calliopemini"
     ],
