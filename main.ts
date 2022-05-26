@@ -1,3 +1,3 @@
 //Project registry
-//timer.ts => Timer
+//timer.ts => Simple Timer
 //game.ts => Small game (Not finished yet!)
